@@ -58,6 +58,15 @@ Erome Downloader is a user-friendly GUI application that simplifies the process 
 
 1. Go to the [Releases](https://github.com/kehhhh/erome-downloader/releases) page of this repository.
 2. Run the `App.exe` executable.
+   
+## Note on Windows SmartScreen
+
+When running Erome Downloader for the first time, you may encounter a Windows SmartScreen warning stating "Windows protected your PC". This is a security feature of Windows and does not indicate a problem with our software.
+
+To run the application:
+
+1. Click on "More info" in the warning dialog.
+2. Click on "Run anyway".
 
 ## Usage
 
