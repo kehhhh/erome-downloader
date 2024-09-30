@@ -1,3 +1,4 @@
+
 # Erome Downloader
 
 Erome Downloader is a user-friendly GUI application that simplifies the process of downloading content from erome.com using the gallery-dl tool.
@@ -12,6 +13,8 @@ Erome Downloader is a user-friendly GUI application that simplifies the process 
 4. [Usage](#usage)
 5. [License](#license)
 6. [Disclaimer](#disclaimer)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg)](https://www.buymeacoffee.com/kehhhh)
 
 ## Features
 
@@ -85,6 +88,12 @@ To run the application:
 7. View your download history by clicking "🕒 Download History".
 
 8. After the download completes, you can click "Open Download Directory" to view the downloaded files.
+
+## Support the Project
+
+If you find Erome Downloader useful and want to support its continued development, consider buying me a coffee! Your support is greatly appreciated and helps keep this project going.
+
+<a href="https://www.buymeacoffee.com/kehhhh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## License
 
