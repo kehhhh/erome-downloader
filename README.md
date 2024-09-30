@@ -10,10 +10,8 @@ Erome Downloader is a user-friendly GUI application that simplifies the process 
    - [Option 1: Run from source](#option-1-run-from-source)
    - [Option 2: Download and run the release version](#option-2-download-and-run-the-release-version)
 4. [Usage](#usage)
-5. [Troubleshooting](#troubleshooting)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Disclaimer](#disclaimer)
+5. [License](#license)
+6. [Disclaimer](#disclaimer)
 
 ## Features
 
@@ -78,14 +76,6 @@ Erome Downloader is a user-friendly GUI application that simplifies the process 
 7. View your download history by clicking "🕒 Download History".
 
 8. After the download completes, you can click "Open Download Directory" to view the downloaded files.
-
-For more detailed instructions and tips, please refer to our [Wiki](https://github.com/kehhhh/erome-downloader/wiki).
-
-## Troubleshooting
-
-If you encounter any issues while using Erome Downloader, please check our [Troubleshooting Guide](https://github.com/kehhhh/erome-downloader/wiki/Troubleshooting) in the Wiki.
-
-Please ensure your code adheres to the project's coding standards and include appropriate tests if applicable.
 
 ## License
 
