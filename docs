@@ -1,0 +1,28 @@
+    Create a Window:
+        Initialize your GUI window with a title, size, and layout.
+
+    Add Input Fields:
+        Create an entry field for the user to input the erome.com URL.
+        Add a directory selection option to specify where downloads should be saved.
+
+    Add Buttons:
+        Create a "Download" button to start the downloading process.
+        Optionally, add a "Cancel" button to allow users to stop the download.
+
+    Add Output Area:
+        Include a text area or label to display messages or progress updates.
+
+Step 3: Implement Download Functionality
+
+    Set Up Event Handling:
+        Connect the "Download" button to an event handler that retrieves the input URL and download location.
+    Call the Gallery-dl Function:
+        Use the gallery-dl command to start downloading the content from the provided URL.
+        You may need to run the gallery-dl command in a subprocess to avoid blocking the GUI.
+
+Step 4: Handle Progress and Output
+
+    Display Progress:
+        Update the GUI with progress messages (e.g., "Downloading...", "Completed") as the download proceeds.
+    Handle Errors:
+        Implement error handling to catch any issues during the download process and display error messages in the output area.
